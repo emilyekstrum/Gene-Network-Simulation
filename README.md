@@ -17,7 +17,7 @@ Additional genes can be loaded into the program via two paths:
 
 - Small scale: Manually enter the gene name and starting expression level (TPM)
 - Batch: Enter .txt file with gene names and starting expression levels (TPM)
-  Input file format: .txt file with gene name and expression level separated by a space. See example genes.txt file.
+  Input file format: .txt file with gene name, expression level (TPM), and main stressor sensitivity, all separated by a space. See example genes.txt file.
   Name this file: genes.txt
 
 The cell type can also be changed to muscle or epithelial cell types. The response of genes will vary when exposed to certain stressors based on the cell type. Currently, cells can be exposed to heat, pH change, mechanical, and hypoxic stress. The associated 'impact factor' with each stress serves to designate the stress severity. 
