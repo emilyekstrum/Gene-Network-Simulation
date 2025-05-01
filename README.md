@@ -23,7 +23,7 @@ Additional genes can be loaded into the program via two paths:
 The cell type can also be changed to muscle or epithelial cell types. The response of genes will vary when exposed to certain stressors based on the cell type. Currently, cells can be exposed to heat, pH change, mechanical, and hypoxic stress. The associated 'impact factor' with each stress serves to designate the stress severity. 
 
 ## Usage
-Download all .java files and load in your current workspace. To use the console version, run the ConsoleExpressionAnalyzer.java file. 
+Download all src files and load in your current workspace. To use the console version, run the ConsoleExpressionAnalyzer.java file. 
 
 If using an input .txt file, load this file in the same folder/workspace as the src.
 
