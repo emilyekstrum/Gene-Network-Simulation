@@ -3,7 +3,7 @@ Simulates gene expression change in response to cellular stressors
 
 ## Introduction
 
-This program simulates changes in gene expression in response to external cellular stressors. The program initializes a generic mammalian cell with several genes and their protein products:
+This program simulates changes in gene expression in response (in transcripts per million - TPM) to external cellular stressors. The program initializes a generic mammalian cell with several genes and their protein products:
 
 - HSPA & HSPA5 -> heat shock protein family A
 - SMARCA2 -> probable global transcription activator SNF2L2
