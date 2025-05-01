@@ -1,20 +1,20 @@
-TP53 0.2
-BRCA1 50
-EGFR 32
-VEGF 70
-MYC 0.7
-RB1 21
-APC 0.45
-PTEN 200
-AKT1 84
-PIK3CA 0.34
-KRAS 0
-NRAS 0.75
-BRAF 52
-MAPK1 159
-TNF 359
-IL6 0.11
-INS 26
-GH1 403
-LEP 45
-MC4R 200
+TP53 0.2 heat
+BRCA1 50 mechanical
+EGFR 32 chemical
+VEGF 70 hypoxia
+MYC 0.7 heat
+RB1 21 heat
+APC 0.45 pH
+PTEN 200 chemical
+AKT1 84 mechanical
+PIK3CA 0.34 pH
+KRAS 0 heat
+NRAS 0.75 hypoxia
+BRAF 52 chemical
+MAPK1 159 mechanical
+TNF 359 pH
+IL6 0.11 pH
+INS 26 heat
+GH1 403 heat
+LEP 45 chemical
+MC4R 200 hypoxia
