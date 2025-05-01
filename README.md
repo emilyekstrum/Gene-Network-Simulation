@@ -37,6 +37,7 @@ Additional genes can be loaded into the program via two paths:
 
 The cell type can also be changed to muscle or epithelial cell types. The response of genes will vary when exposed to certain stressors based on the cell type. Currently, cells can be exposed to heat, pH change, mechanical, and hypoxic stress. The associated 'impact factor' with each stress serves to designate the stress severity. 
 
+**Note: This program does not aim to be 100% biologically accurate.
 
 ## Author & Contact
 Emily Ekstrum, Creighton University
@@ -47,5 +48,3 @@ emilyekstrum@creighton.edu
 Graph image: https://www.geeksforgeeks.org/applications-of-graph-data-structure/
 
 Gene network image: Chen, C., Zhang, D., Hazbun, T.R. et al. Inferring Gene Regulatory Networks from a Population of Yeast Segregants. Sci Rep 9, 1197 (2019). https://doi.org/10.1038/s41598-018-37667-4
-
-** NOTE this program is not 100% biologically accurate. 
