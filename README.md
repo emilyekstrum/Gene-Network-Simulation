@@ -15,11 +15,12 @@ This program simulates changes in gene expression in response (in transcripts pe
 
 Biologically, gene regulatory networks describe the web of interactions a gene may have with other genes, transcription factors, proteins, etc. In this program, gene regulatory networks are modeled as graph structures, where vertices are genes and edges are labeled as the positive/negative regulatory relationships.
 
+
 Graph data structure:
-![graph](https://github.com/user-attachments/assets/85cd17e4-c894-46f5-9106-9de8b058e1b2)
+![graph](https://github.com/user-attachments/assets/85cd17e4-c894-46f5-9106-9de8b058e1b2 =250x250)
 
 Gene regulatory network:
-![geneNetwork](https://github.com/user-attachments/assets/37e7e420-7893-44c4-aebb-53b9b7d1c024)
+![geneNetwork](https://github.com/user-attachments/assets/37e7e420-7893-44c4-aebb-53b9b7d1c024 =250x250)
 
 
 ## Usage
