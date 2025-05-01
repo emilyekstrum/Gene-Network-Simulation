@@ -24,6 +24,8 @@ The cell type can also be changed to muscle or epithelial cell types. The respon
 ## Usage
 Download all .java files and load in your current workspace. To use the console version, run the ConsoleExpressionAnalyzer.java file. 
 
+If using an input .txt file, load this file in the same folder/workspace as the src.
+
 ## Author & Contact
 Emily Ekstrum, Creighton University
 
