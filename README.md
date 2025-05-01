@@ -17,7 +17,7 @@ Biologically, gene regulatory networks describe the web of interactions a gene m
 
 
 Graph data structure:
-![graph](https://github.com/user-attachments/assets/85cd17e4-c894-46f5-9106-9de8b058e1b2 |width=100)
+<img src="geneNetwork.png" width="324" height="324">
 
 Gene regulatory network:
 ![geneNetwork](https://github.com/user-attachments/assets/37e7e420-7893-44c4-aebb-53b9b7d1c024)
